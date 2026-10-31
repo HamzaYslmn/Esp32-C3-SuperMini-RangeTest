@@ -4,7 +4,7 @@ ESP-NOW vs BLE range between two ESP32-C3 SuperMini boards, both at 15 dBm.
 
 ## Results
 
-| Link | Line of sight | Through a brick (briket) wall |
+| Link | Line of sight | Through a brick wall |
 |------|--------------:|------------------------------:|
 | ESP-NOW (long range, 250 kbps) | **60 m** | **20 m** |
 | BLE (LE Coded PHY S=8, 125 kbps) | 15 m | 10 m |
